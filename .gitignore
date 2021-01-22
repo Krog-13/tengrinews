@@ -1,0 +1,5 @@
+chromedriver
+.idea
+venv
+__pycache__
+geckodriver.log
